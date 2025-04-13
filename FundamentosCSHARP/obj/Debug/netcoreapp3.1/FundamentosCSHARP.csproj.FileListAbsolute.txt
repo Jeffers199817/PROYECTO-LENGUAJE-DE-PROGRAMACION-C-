@@ -1,0 +1,13 @@
+C:\Users\JEFFERSON\source\repos\FundamentosCSHARP\FundamentosCSHARP\bin\Debug\netcoreapp3.1\FundamentosCSHARP.exe
+C:\Users\JEFFERSON\source\repos\FundamentosCSHARP\FundamentosCSHARP\bin\Debug\netcoreapp3.1\FundamentosCSHARP.deps.json
+C:\Users\JEFFERSON\source\repos\FundamentosCSHARP\FundamentosCSHARP\bin\Debug\netcoreapp3.1\FundamentosCSHARP.runtimeconfig.json
+C:\Users\JEFFERSON\source\repos\FundamentosCSHARP\FundamentosCSHARP\bin\Debug\netcoreapp3.1\FundamentosCSHARP.runtimeconfig.dev.json
+C:\Users\JEFFERSON\source\repos\FundamentosCSHARP\FundamentosCSHARP\bin\Debug\netcoreapp3.1\FundamentosCSHARP.dll
+C:\Users\JEFFERSON\source\repos\FundamentosCSHARP\FundamentosCSHARP\bin\Debug\netcoreapp3.1\FundamentosCSHARP.pdb
+C:\Users\JEFFERSON\source\repos\FundamentosCSHARP\FundamentosCSHARP\obj\Debug\netcoreapp3.1\FundamentosCSHARP.csproj.AssemblyReference.cache
+C:\Users\JEFFERSON\source\repos\FundamentosCSHARP\FundamentosCSHARP\obj\Debug\netcoreapp3.1\FundamentosCSHARP.AssemblyInfoInputs.cache
+C:\Users\JEFFERSON\source\repos\FundamentosCSHARP\FundamentosCSHARP\obj\Debug\netcoreapp3.1\FundamentosCSHARP.AssemblyInfo.cs
+C:\Users\JEFFERSON\source\repos\FundamentosCSHARP\FundamentosCSHARP\obj\Debug\netcoreapp3.1\FundamentosCSHARP.csproj.CoreCompileInputs.cache
+C:\Users\JEFFERSON\source\repos\FundamentosCSHARP\FundamentosCSHARP\obj\Debug\netcoreapp3.1\FundamentosCSHARP.dll
+C:\Users\JEFFERSON\source\repos\FundamentosCSHARP\FundamentosCSHARP\obj\Debug\netcoreapp3.1\FundamentosCSHARP.pdb
+C:\Users\JEFFERSON\source\repos\FundamentosCSHARP\FundamentosCSHARP\obj\Debug\netcoreapp3.1\FundamentosCSHARP.genruntimeconfig.cache
