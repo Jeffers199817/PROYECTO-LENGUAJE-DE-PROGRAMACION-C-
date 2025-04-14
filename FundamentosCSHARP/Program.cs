@@ -22,7 +22,10 @@ namespace FundamentosCSHARP
 
             float numero6 = 189.1f;
 
+
+
             double numero = 189.3d;
+            double numero34 = 44.4d;
 
 
 
